@@ -1,16 +1,34 @@
-## Hi there 👋
+## IT Systems & Network Administrator
 
-<!--
-**FORSMITHG/FORSMITHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on secure, scalable infrastructure. I design and manage Windows Server environments, enterprise networks, Azure services, and modern endpoint management.
 
-Here are some ideas to get you started:
+### Core Skills
+- Windows Server Administration: AD DS, DNS, DHCP, GPO, RDS
+- Network Engineering: VLANs, VPN, Wi-Fi, routing, Meraki
+- Cloud + Identity: Microsoft 365, Entra ID, Intune, Azure AD Connect
+- Virtualization: Hyper-V, VMware ESXi, Proxmox
+- Security + Monitoring: Sysmon, SIEM, MFA, Zero Trust, hardening
+- Automation: PowerShell, Python, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+Building a fully documented enterprise-style home lab:
+- Automated domain deployment via PowerShell
+- Network segmentation with Meraki + firewall best practices
+- Secure remote access using OpenVPN/WireGuard
+- Azure hybrid identity & device management
+
+### Projects
+- Premium Freight Tracker (Python)
+- ACC5 Deployment
+- OpenVPN Deployment + Documentation
+- Additional SysAdmin + Networking tools coming soon
+
+### Goals
+- Create automation toolkits for daily IT operations
+- Publish network design documentation with diagrams
+- Share real-world troubleshooting and incident playbooks
+
+### Connect
+Location: USA
+
+Feel free to explore my work or reach out for collaboration.

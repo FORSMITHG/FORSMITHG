@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://raw.githubusercontent.com/FORSMITHG/FORSMITHG/main/banner.png" width="50%">
+
 
 ## IT Systems & Network Administrator
 

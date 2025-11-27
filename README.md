@@ -1,34 +1,47 @@
+<!-- Optional Profile Banner -->
+<!-- <img src="https://raw.githubusercontent.com/FORSMITHG/FORSMITHG/main/banner.png" width="100%"> -->
+
 ## IT Systems & Network Administrator
 
-Focused on secure, scalable infrastructure. I design and manage Windows Server environments, enterprise networks, Azure services, and modern endpoint management.
+Designing and supporting secure, scalable enterprise infrastructure focused on automation, reliability, and modern identity.
 
 ### Core Skills
-- Windows Server Administration: AD DS, DNS, DHCP, GPO, RDS
-- Network Engineering: VLANs, VPN, Wi-Fi, routing, Meraki
-- Cloud + Identity: Microsoft 365, Entra ID, Intune, Azure AD Connect
+- Windows Server: AD DS, DNS, DHCP, GPO
+- Network Infrastructure: VLANs, VPN, Wi-Fi, Meraki, Routing
+- Cloud & Identity: Microsoft 365, Entra ID, Intune, Hybrid Identity
 - Virtualization: Hyper-V, VMware ESXi, Proxmox
-- Security + Monitoring: Sysmon, SIEM, MFA, Zero Trust, hardening
-- Automation: PowerShell, Python, REST APIs
+- Security: Sysmon, SIEM, MFA, Zero Trust principles
+- Automation: PowerShell, Python, REST API
+
+### Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/PowerShell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+<img src="https://img.shields.io/badge/Meraki-009639?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
 ### Current Focus
-Building a fully documented enterprise-style home lab:
+Building a hybrid, enterprise-style lab environment:
 - Automated domain deployment via PowerShell
-- Network segmentation with Meraki + firewall best practices
-- Secure remote access using OpenVPN/WireGuard
-- Azure hybrid identity & device management
+- Network segmentation + firewall best practices
+- Secure remote access with OpenVPN/WireGuard
+- Azure identity + device management integration
 
-### Projects
+### Featured Projects
 - Premium Freight Tracker (Python)
 - ACC5 Deployment
-- OpenVPN Deployment + Documentation
-- Additional SysAdmin + Networking tools coming soon
+- OpenVPN Deployment and Administration
+- New SysAdmin + Networking tools incoming
 
 ### Goals
-- Create automation toolkits for daily IT operations
-- Publish network design documentation with diagrams
-- Share real-world troubleshooting and incident playbooks
+- Build out public automation toolkits for daily IT operations
+- Publish network design documentation with Visio diagrams
+- Share troubleshooting guides, monitoring templates, and policy baselines
 
-### Connect
 Location: USA
-
-Feel free to explore my work or reach out for collaboration.

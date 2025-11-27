@@ -1,9 +1,14 @@
-<!-- Optional Profile Banner -->
-<!-- <img src="https://raw.githubusercontent.com/FORSMITHG/FORSMITHG/main/banner.png" width="100%"> -->
+<!-- Profile Banner -->
+<img src="https://raw.githubusercontent.com/FORSMITHG/FORSMITHG/main/banner.png" width="100%">
 
 ## IT Systems & Network Administrator
 
 Designing and supporting secure, scalable enterprise infrastructure focused on automation, reliability, and modern identity.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FORSMITHG&show_icons=true&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FORSMITHG&layout=compact">
+</p>
 
 ### Core Skills
 - Windows Server: AD DS, DNS, DHCP, GPO
@@ -32,6 +37,8 @@ Building a hybrid, enterprise-style lab environment:
 - Network segmentation + firewall best practices
 - Secure remote access with OpenVPN/WireGuard
 - Azure identity + device management integration
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FORSMITHG&theme=github-light">
 
 ### Featured Projects
 - Premium Freight Tracker (Python)

@@ -50,4 +50,4 @@ Building a hybrid, enterprise-style lab environment:
 - Publish network design documentation with Visio diagrams
 - Share troubleshooting guides, monitoring templates, and policy baselines
 
-Location: USA
+Location: Ohio, USA

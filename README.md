@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-## IT Systems & Network Administrator
+## IT Manager, Senior Business Analyst
 
 Designing and supporting secure, scalable enterprise infrastructure focused on automation, reliability, and modern identity.
 

@@ -39,8 +39,6 @@ Building a hybrid, enterprise-style lab environment:
 - Secure remote access with OpenVPN/WireGuard
 - Azure identity + device management integration
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FORSMITHG&theme=github-light">
-
 ### Featured Projects
 - Premium Freight Tracker (Python)
 - ACC5 Deployment
